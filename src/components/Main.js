@@ -7,6 +7,7 @@ import { Layout, Menu, Breadcrumb } from "antd";
 
 const { SubMenu } = Menu;
 const { Header, Content, Footer, Sider } = Layout;
+import "antd/dist/antd.css";
 
 // The Main component renders one of the three provided
 // Routes (provided that one matches). Both the /roster
